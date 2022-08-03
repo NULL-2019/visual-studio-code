@@ -1,3 +1,7 @@
+*.opendb
+*.pdb
+**/x64/Debug/
+**/Debug/**/
 # Prerequisites
 *.d
 
@@ -30,3 +34,4 @@
 *.exe
 *.out
 *.app
+*.pdb
